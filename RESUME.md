@@ -1,5 +1,8 @@
 ## Hi there 👋
-Hello 
+
+Hello, 
+
+my name is Halcyon Skinner. I am a CS student at Northeastern University! 
 <!--
 **halcyski/halcyski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
